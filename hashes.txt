@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel de ceniza
+
+This log tracks the cryptographic history and versioning for the song **Piel de ceniza** (piel-de-ceniza).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T06:25:52.343880 | `v1` | `f96727c15f21a6edd3782175eb5056de43527c705a075c9213e1bce7b707ad29` | `d11a4b96b9b30a9c66b5036a77d34911961a477a36e8589133900c8d62aeb345` | `2026-06-18_piel-de-ceniza-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
