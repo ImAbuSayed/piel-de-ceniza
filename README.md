@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-ceniza/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Piel de ceniza](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-ceniza/) |
+| **Get License** | [Secure Licensing Rights for Piel de ceniza](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-ceniza/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus labios saben a humo y a miel
+> Dejando marcas sobre mi piel
+> Piel de ceniza, fuego en la suite
+> Baby, tú y yo a poca luz en Madrid
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
